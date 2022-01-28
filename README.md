@@ -7,7 +7,7 @@
 Evans, Jeff, Sally Ruane, Humphrey Southall, and Daniel Dorling. Data in Society: Challenging Statistics in an Age of Globalisation. Policy Press, 2019. 
 [Library link](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph008118956&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,data%20&offset=0)
 
-## Engebretsen, Martin, and Helen Kennedy. Data Visualization in Society. Amsterdam University Press, 2020. 
+Engebretsen, Martin, and Helen Kennedy. Data Visualization in Society. Amsterdam University Press, 2020. 
 [Library link](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph007897288&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Visualizing%20feelings&offset=10)
 
 ## Missing Icelandic Glaciers
