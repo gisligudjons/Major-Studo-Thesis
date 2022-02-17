@@ -25,13 +25,13 @@ Pirsig, Robert M. Zen and the Art of Motorcycle Maintenance: An Inquiry into Val
 #Outline Draft:
 
 1. Introduction
-2. Thesis Statement
+2. Thesis Statement or argument
 3. Body
-    a. Funeral of a glacier
-    b. Actions to combat
-    c. ESG actions 
-    d. more....
+    1. Funeral of a glacier and climate change
+    2. Actions to combate and recent developments
+    3. ESG actions in numbers (comparisons )
 4. Visualizations
+    1. Reasons and Logic
 5. Conclusion
 
 I feel like I do not have enough experience with creative thesis writing to better define my outline. More research is needed
