@@ -46,3 +46,31 @@ Pirsig, Robert M. Zen and the Art of Motorcycle Maintenance: An Inquiry into Val
 7. Conclusion
 
 I feel like I do not have enough experience with creative thesis writing to better define my outline. More research is needed
+
+# Sources 
+
+Burchi, Alberto. “The Risk in Socially Responsible Investing: The Other Side of the
+Coin.” The Journal of Risk Finance; London 20, no. 1 (2019): 14–38.
+
+Caplan, Lauren, Griswold, John S., William, F.Jarvis. “From SRI to ESG: The
+Changing World of Responsible Investing.” Common fund Institute, September
+2013.
+
+Cornett, Marcia Millon, Otgontsetseg Erhemjamts, and Hassan Tehranian. “Greed or
+Good Deeds: An Examination of the Relation between Corporate Social
+Responsibility and the Financial Performance of U.S. Commercial Banks around
+the Financial Crisis.” Journal of Banking & Finance 70 (September 1, 2016):
+137–59.
+
+Friede, Gunnar, Timo Busch, and Alexander Bassen. “ESG and Financial
+Performance: Aggregated Evidence from More than 2000 Empirical Studies.”
+Journal of Sustainable Finance & Investment 5, no. 4 (October 2, 2015): 210–33.
+
+Halldór Björnsson, Bjarni D. Sigurðsson, Brynhildur Davíðsdóttir, Jón Ólafsson, Ólafur S.
+Ástþórsson, Snjólaug Ólafsdóttir, … Trausti Jónsson. (2018). Loftslagsbreytingar og
+áhrif þeirra á Íslandi: Skýrsla vísindanefndar um loftslagsbreytingar 2018.
+
+Helgi Björnsson (2009). Jöklar á Íslandi.
+
+IPCC (2019). Summary for Policymakers. Í H.O. Pörtner, D.C. Roberts, V. MassonDelmotte, P. Zhai, M. Tignor, E. Poloczanska, … N. Weyer (ritstjórar), IPCC
+Special Report on the Ocean and Cryosphere in a Changing Climate
