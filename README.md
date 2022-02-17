@@ -22,7 +22,8 @@ Paranque, Bernard, and Pérez Roland. Finance Reconsidered: New Perspectives fo
 Pirsig, Robert M. Zen and the Art of Motorcycle Maintenance: An Inquiry into Values. Harper Perennial, 2005. 
 [Library link](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001987386&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,the%20art%20of%20motorcycle%20maintenance&sortby=date&facet=frbrgroupid,include,1146076804&offset=0)
 
-#Outline Draft:
+# Outline Draft
+
 1. Introduction
 2. Thesis Statement or argument
 3. Literature review
