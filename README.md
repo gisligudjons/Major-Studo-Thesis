@@ -21,3 +21,17 @@ Paranque, Bernard, and Pérez Roland. Finance Reconsidered: New Perspectives fo
 ## The art of motorcycle maintenance 
 Pirsig, Robert M. Zen and the Art of Motorcycle Maintenance: An Inquiry into Values. Harper Perennial, 2005. 
 [Library link](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001987386&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,the%20art%20of%20motorcycle%20maintenance&sortby=date&facet=frbrgroupid,include,1146076804&offset=0)
+
+#Outline Draft:
+
+1. Introduction
+2. Thesis Statement
+3. Body
+    a. Funeral of a glacier
+    b. Actions to combat
+    c. ESG actions 
+    d. more....
+4. Visualizations
+5. Conclusion
+
+I feel like I do not have enough experience with creative thesis writing to better define my outline. More research is needed
