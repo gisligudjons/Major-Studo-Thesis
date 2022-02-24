@@ -31,7 +31,6 @@
     
     “Financing our survival”
 
-I feel like I do not have enough experience with creative thesis writing to better define my outline. More research is needed
 
 # Sources 
 
