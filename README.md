@@ -42,10 +42,7 @@ Pirsig, Robert M. Zen and the Art of Motorcycle Maintenance: An Inquiry into Val
         
         *This is the bulk of the research and the thesis itself. Contains a lot of information and outlines the current state of things.* 
         
-    4. Data
-    5. Methodology (visualizations)
-        1. Reasons and Logic
-    6. ESG actions in numbers (comparisons )
+    4. ESG actions in numbers (comparisons )
         
         *A main argument chapter and connection finder.* 
         
