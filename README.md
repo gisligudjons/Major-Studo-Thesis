@@ -92,5 +92,6 @@ The goal is to impact the most amount of people, but the main focus will be on t
 
 ## I'm still working on high fidelity wires. Will be here by the weekend + the system diagram
 
+<img width="378" alt="Screenshot 2022-02-24 at 13 22 54" src="https://user-images.githubusercontent.com/73747671/155584326-2200a33c-30da-4e03-8c64-bd216bcea4e6.png">
 
-![Untitled Copy](https://user-images.githubusercontent.com/73747671/155576998-b56960ea-984c-4404-bb7d-e0b627657cca.jpg)
+
