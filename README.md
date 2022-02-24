@@ -25,25 +25,35 @@ Pirsig, Robert M. Zen and the Art of Motorcycle Maintenance: An Inquiry into Val
 # Outline Draft
 
 1. Introduction
-2. Thesis Statement or argument
-3. Literature review
-4. Data
-5. Methodology (visualizations)
+    
+    Ending in thesis statement or argument
+    
+2. Literature review
+3. Data
+4. Methodology (visualizations)
     1. Reasons and Logic
-6. Body
+5. Body
     1. Funeral of a glacier and climate change
         
         *This is thought of as an entry point for the reader, and as a key narrative point.* 
         
-    2. Actions to combat and recent developments
+    2. “The Economy”
+    3. Actions to combat and recent developments
         
-        *This is the bulk of the research and the thesis itself. Contains a lot of information and outlines the current state of things*
+        *This is the bulk of the research and the thesis itself. Contains a lot of information and outlines the current state of things.* 
         
-    3. ESG actions in numbers (comparisons )
+    4. Data
+    5. Methodology (visualizations)
+        1. Reasons and Logic
+    6. ESG actions in numbers (comparisons )
         
         *A main argument chapter and connection finder.* 
         
-7. Conclusion
+6. Conclusion
+    
+    “Building a nature friendly economy”
+    
+    “Financing our survival”
 
 I feel like I do not have enough experience with creative thesis writing to better define my outline. More research is needed
 
