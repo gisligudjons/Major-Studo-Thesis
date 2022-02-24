@@ -92,7 +92,9 @@ The project will take a look at the funeral of a glacier in Iceland and look at 
 
 The goal is to impact the most amount of people, but the main focus will be on the 18-35 demographic who have a decent amount of financial literacy. Another aspect to think about is the fact people are often divided into two factions: Believers and non-believers. My project will require a fair amount of attention. The information is dense and covers a big area of research. The project also asks for limited input or interactivity. Main source of interactivity will be in the form of scrolling and interactive filters to demonstrate the “vastness” of the problem. The main audience takeaway is hopefully an eye-opening experience, a deeper knowledge about the problem all of us face.
 
-##Absolute first UI Sketch
+## Absolute first UI Sketch
 
 ![IMG_2468](https://user-images.githubusercontent.com/73747671/155572179-6d040aef-0dca-4df8-902c-77eb5ff025fd.jpg)
 
+
+## I'm still working on high fidelity wires. Will be here by the weekend + the system diagram
