@@ -96,5 +96,11 @@ The goal is to impact the most amount of people, but the main focus will be on t
 
 ![IMG_2468](https://user-images.githubusercontent.com/73747671/155572179-6d040aef-0dca-4df8-902c-77eb5ff025fd.jpg)
 
+<img width="352" alt="Screenshot 2022-02-24 at 12 21 11" src="https://user-images.githubusercontent.com/73747671/155575881-bea96001-22b1-4a55-8175-29b104f3d9da.png">
+
+<img width="335" alt="Screenshot 2022-02-24 at 12 21 20" src="https://user-images.githubusercontent.com/73747671/155575903-87196ccd-42e7-4fb9-9f24-e4f720e8e5c7.png">
+<img width="350" alt="Screenshot 2022-02-24 at 12 26 35" src="https://user-images.githubusercontent.com/73747671/155575984-6d096fde-f841-41e3-a235-3e9fe7b5a294.png">
+<img width="340" alt="Screenshot 2022-02-24 at 12 26 44" src="https://user-images.githubusercontent.com/73747671/155575996-a97dea36-b1d6-4673-a440-db60eaee8c72.png">
+
 
 ## I'm still working on high fidelity wires. Will be here by the weekend + the system diagram
