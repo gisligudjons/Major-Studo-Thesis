@@ -99,5 +99,5 @@ The goal is to impact the most amount of people, but the main focus will be on t
 
 ## I'm still working on high fidelity wires. Will be here by the weekend + the system diagram
 
-[Untitled (Copy).pdf](https://github.com/gisligudjons/thesis/files/8134530/Untitled.Copy.pdf)
 
+![Untitled Copy](https://user-images.githubusercontent.com/73747671/155576998-b56960ea-984c-4404-bb7d-e0b627657cca.jpg)
