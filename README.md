@@ -92,6 +92,12 @@ The project will take a look at the funeral of a glacier in Iceland and look at 
 
 The goal is to impact the most amount of people, but the main focus will be on the 18-35 demographic who have a decent amount of financial literacy. Another aspect to think about is the fact people are often divided into two factions: Believers and non-believers. My project will require a fair amount of attention. The information is dense and covers a big area of research. The project also asks for limited input or interactivity. Main source of interactivity will be in the form of scrolling and interactive filters to demonstrate the “vastness” of the problem. The main audience takeaway is hopefully an eye-opening experience, a deeper knowledge about the problem all of us face.
 
+## UI 
+ * Use number to my advantage, the numbers in this project are very large and therefore hard to quantify easily, scale is then used to display the immense size of the problem.
+ * Scroller changes state, show the disappearance of the glacier and changes of visualizations.
+ * Easily acessible by most financially literate individuals
+ * Interactive filters on later visualizations. Be able to change the year for example.
+
 ## Absolute first UI Sketch
 
 ![IMG_2468](https://user-images.githubusercontent.com/73747671/155572179-6d040aef-0dca-4df8-902c-77eb5ff025fd.jpg)
